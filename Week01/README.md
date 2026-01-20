@@ -2,7 +2,7 @@
 
 - [Read Through This Git Tutorial](http://rogerdudler.github.io/git-guide/)
 
-- Add your github repo link to the [class roster google doc]([https://docs.google.com/spreadsheets/d/1mptgxdD0XdaCIBRf2HWL-ANWwcwrEdOCwUVvQSTkMgA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1TLbmCKtqgod_bxaE_eW0qZ8lEIfrEy6v2WUZgdIUjXE/edit?gid=0#gid=0)).
+- Add your github repo link to the [class roster google doc](https://docs.google.com/spreadsheets/d/1TLbmCKtqgod_bxaE_eW0qZ8lEIfrEy6v2WUZgdIUjXE/edit?usp=sharing).
   Make sure you add your name/email/repo to the correct sheet/section. You can view different sheets via the labeled tabs on the bottom.
 
 - Make sure you have all software set up for next class. We won’t be using Photoshop for a few weeks but please inquire about the student discounts.
@@ -14,7 +14,6 @@
 - Create a `recipe.md` file and format your recipe with different text sizes and styles as well as bulleted and numbered lists. _Think Hierarchy_ your recipe layout in markdown should resemble a microsoft word document.
 
 - Create an `index.html` file containing a recipe card. The recipe card should contain:
-
   - A photo of the completed dish (or placeholder img)
   - Brief description of the recipe
   - List of ingredients
