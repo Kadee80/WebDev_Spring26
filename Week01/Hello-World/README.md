@@ -1,4 +1,4 @@
-## Syllabus Review
+# Syllabus Review
 
 ## Introductions, Attendance
 
