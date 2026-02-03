@@ -6,4 +6,4 @@
 
 3. Using the recipe you uploaded last week _(or a new one)_ wireframe your desired layout for a single recipe page on your hypothetical recipe site. Think - rows, columns, sidebars, headers, footers etc. Be sure to mark up each block of content in your wireframe with a few HTML tags for practice.
 
-4. Mark up your recipe in HTML semantically based on your wireframe. Bonus points for applying some basic font and color styles.
+4. Mark up your recipe in [HTML semantically](https://www.w3schools.com/html/html5_semantic_elements.asp) based on your wireframe. Bonus points for applying some basic font and color styles.
