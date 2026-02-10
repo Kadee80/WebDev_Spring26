@@ -1,6 +1,6 @@
-# HW - Due Tuesday, Week 5
+# HW - Due THURSDAY, Week 5
 
-Time to start thinking about your midterm project! You will be presenting next week a proposal along with your layout in class THURSDAY. 
+Time to start thinking about your midterm project! You will be presenting next week a proposal along with your layout in class THURSDAY.
 
 - concept|theme of the site (not just random images and links that show skill)
 - an existing website you drew inspiration from (bonus points for pinterest collection or mood board)
