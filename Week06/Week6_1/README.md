@@ -4,6 +4,8 @@ At the beginning of class, I will run the student list shuffle and print script 
 
 Speaking of paying attention... Please pay attention to your fellow students' presenations! They might give you some new ideas.
 
+### Section C
+
 - Maria
 - Liz
 - Kitrina
@@ -24,3 +26,5 @@ Speaking of paying attention... Please pay attention to your fellow students' pr
 - Jakeline
 - Dona
 - Rafid
+
+### Section D
