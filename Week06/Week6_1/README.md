@@ -28,3 +28,23 @@ Speaking of paying attention... Please pay attention to your fellow students' pr
 - Rafid
 
 ### Section D
+
+- Leah
+- Jacob
+- Hriday
+- Anika
+- Angela
+- Esha
+- Wujin
+- River
+- Danny
+- Hannah
+- Viet Lin
+- Bryan
+- Emma
+- Avari
+- Maceo
+- Mandy
+- Andy
+- Yu
+- Christina
