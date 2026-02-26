@@ -1,10 +1,6 @@
-# PSA TUESDAY CLASS IS ON ZOOM!
+# HW Week06: Continue Working on Midterm Sites
 
-Please check your email for a meeting invite!
-
-## HW Week06: Continue Working on Midterm Sites
-
-This week we will be going through advance hover effects, modals (pop up windows) and based on class input, maybe another popular topic. _Next week_ we will also be going over image sizing and optimization for web. If there is enough interest, we can go over some other simple/common Photoshop moves. Be sure to speak up and make suggestions in class or via email! Please make sure you have Adobe Photoshop installed by Week07.
+Next week we will be going through advance hover effects, modals (pop up windows) and based on class input, maybe another popular topic. _Next week_ we will also be going over image sizing and optimization for web. If there is enough interest, we can go over some other simple/common Photoshop moves. Be sure to speak up and make suggestions in class or via email! Please make sure you have Adobe Photoshop installed by Week07.
 
 Hopefully, by now you have your layouts started in HTML and CSS. Keep working on your sites. Your Midterm Project Presentations will be held Week08.
 
