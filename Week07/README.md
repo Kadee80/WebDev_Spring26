@@ -9,5 +9,8 @@ Complete your midterm projects. You will be presenting either present _Thursday 
 - Your midterm project code and documentation (and copy of slideshow if applicable) must be present in your repo.
 - Presentation is part of your midterm grade, this is how it is marked on-time. **I will not be grading your _code_ until Friday March 27**. If you make any considerable changes within the extra time, please email me so that I am aware your project may look/behave differently than when you presented.
 
+## 📣  In order for your midterm to be marked "on time" you must present one of these 2 days!
+Obviously email me if there are special circumstances and we can figure something out. My midterm progress reports are due March 30. So we have a hard deadline for presentations by Week09!
+
 ## 📣  Email me if you would like to present _next_ Thursday (Week08)
 My email address can be found in the header portion of the syllabus (this repo's main readme file).
