@@ -10,3 +10,4 @@ Complete your midterm projects. You will be presenting either present _Thursday 
 - Presentation is part of your midterm grade, this is how it is marked on-time. **I will not be grading your _code_ until Friday March 27**. If you make any considerable changes within the extra time, please email me so that I am aware your project may look/behave differently than when you presented.
 
 ## 📣  Email me if you would like to present _next_ Thursday (Week08)
+My email address can be found in the header portion of the syllabus (this repo's main readme file).
