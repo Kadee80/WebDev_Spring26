@@ -1,4 +1,4 @@
-# MIDTERM PRESENTATIONS: Due Tuesday Week09, OR Thursday Week08
+# MIDTERM PRESENTATIONS: Due Thursday Week08(volunteers) OR Tuesday Week09
 
 Complete your midterm projects. You will be presenting either present _Thursday of next week (Week08) for a bonus 5 points_, or Tuesday Week09 after Spring Break. Please be sure to document your project with either a slideshow or a markdown file inside your class repo. Be sure to include:
 
@@ -8,3 +8,5 @@ Complete your midterm projects. You will be presenting either present _Thursday 
 - Next steps (if you had more time, or if you plan on continuing to add functionality for your final)
 - Your midterm project code and documentation (and copy of slideshow if applicable) must be present in your repo.
 - Presentation is part of your midterm grade, this is how it is marked on-time. **I will not be grading your _code_ until Friday March 27**. If you make any considerable changes within the extra time, please email me so that I am aware your project may look/behave differently than when you presented.
+
+##📣  Email me if you would like to present _next_ Thursday (Week08)
