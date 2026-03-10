@@ -7,5 +7,6 @@ Complete your midterm projects. You will be presenting Tuesday, March 24. Please
 - Be sure to include at least one media query in your CSS for responsive behavior. If you are only picking one media query, make sure it is mobile `(max-width: 768px)`. I will be asking you to resize you screen when you demo!
 - Next steps (if you had more time, or if you plan on continuing to add functionality for your final)
 - Your midterm project code and documentation (and copy of slideshow if applicable) must be present in your repo.
-- Presentation is part of your midterm grade, this is how it is marked on-time. I will not be grading your _code_ until Friday, March 27. You will have an entire week after your presentation to continue coding your project. If you make any considerable changes within the extra week, please email me so that I am aware your project may look/behave differently than when you presented.
+
+Presentation is part of your midterm grade, this is how it is marked on-time. I will not be grading your _code_ until Friday, March 27. You will have an entire week after your presentation to continue coding your project. If you make any considerable changes within the extra week, please email me so that I am aware your project may look/behave differently than when you presented.
 
