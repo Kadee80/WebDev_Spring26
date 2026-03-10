@@ -1,4 +1,4 @@
-# HW Week07: Due Thursday Week08
+# 📣 HW Week08: MIDTERM Due Tuesday Week09!
 
 Complete your midterm projects. You will be presenting Tuesday, March 24. Please be sure to document your project with either a slideshow or a markdown file inside your class repo. Be sure to include:
 
