@@ -4,24 +4,6 @@ Today you will be presenting your midterm projects. The presentation order for b
 
 Laptops closed. Give your fellow students your attention and respect.
 
-### Section C
-- Melody
-- Shihan
-- Maria
-- Ananya
-- Dhiya
-- Dona
-- Rafid
-- Kitrina
-- David
-- Felix
-- Zizi
-- Jakeline
-- Liz
-- Andrew
-- Heyin
-- Emily
-
 ### Section D
 
 - Jacob
@@ -42,3 +24,21 @@ Laptops closed. Give your fellow students your attention and respect.
 - Wujin
 - Mandy
 - Yu
+
+### Section C
+- Melody
+- Shihan
+- Maria
+- Ananya
+- Dhiya
+- Dona
+- Rafid
+- Kitrina
+- David
+- Felix
+- Zizi
+- Jakeline
+- Liz
+- Andrew
+- Heyin
+- Emily
