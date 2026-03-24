@@ -7,18 +7,18 @@ Laptops closed. Give your fellow students your attention and respect.
 ### Section C
 
 - Shihan
-- Liz
 - Maria
+- Ananya
+- Dhiya
 - Dona
 - Rafid
 - Kitrina
 - Melody
 - David
-- Ananya
 - Felix
 - Zizi
 - Jakeline
-- Dhiya
+- Liz
 - Andrew
 - Heyin
 - Emily
