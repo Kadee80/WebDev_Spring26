@@ -25,8 +25,7 @@ Laptops closed. Give your fellow students your attention and respect.
 
 ### Section D
 
-Jacob
-
+- Jacob
 - Esha
 - Anika
 - Angela
