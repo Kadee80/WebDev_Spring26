@@ -5,7 +5,7 @@ Today you will be presenting your midterm projects. The presentation order for b
 Laptops closed. Give your fellow students your attention and respect.
 
 ### Section C
-
+- Melody
 - Shihan
 - Maria
 - Ananya
@@ -13,7 +13,6 @@ Laptops closed. Give your fellow students your attention and respect.
 - Dona
 - Rafid
 - Kitrina
-- Melody
 - David
 - Felix
 - Zizi
