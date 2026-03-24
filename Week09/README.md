@@ -6,6 +6,7 @@ Laptops closed. Give your fellow students your attention and respect.
 
 ### Section D
 
+- Viet Lin
 - Jacob
 - Esha
 - Anika
@@ -19,7 +20,6 @@ Laptops closed. Give your fellow students your attention and respect.
 - Bryan
 - Maceo
 - Danny
-- Viet Lin
 - Emma
 - Wujin
 - Mandy
