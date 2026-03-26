@@ -142,7 +142,7 @@ console.log(yn);
 
 We can now combine this with an if/else statement based on our random result if our random number rounds up or down. A single = sets a variable to a value. To compare we need t0 use ==. Take a look at JavaScript Comparisons Here.
 
-```
+```js
 //alert no if the var yn rounds down to 0.
  if (yn == 0) {
  alert("No!");
@@ -157,7 +157,7 @@ The case above works fine for an either/or situation. But what if we want a rand
 
 Let’s make this a function with a number parameter so we can change the range whenever we want:
 
-```
+```js
 function randomNumber(n) {
   //when we declare a variable inside a function, this variable "dies"
   //aka can't be used outside of the function. take a look at JavaScript Scope for more info.
@@ -172,7 +172,7 @@ randomNumber(25);
 
 Cool. But that only covers random numbers between 0 and N. What if we want to enter a min and max range? We need to use a few of our simple math operators to accomplish this:
 
-```
+```js
  //random number within the range provided in min and max parameters
  function randNumRange(min, max) {
  //here we have to add a few math expressions to make sure our range starts at the min number
