@@ -86,6 +86,74 @@
 
     <div id="result">Click the button to find your location.</div>
 
-    <script></script>
+    <script>
+      let result
+
+      document.addEventListener('DOMContentLoaded', () => {
+        result = document.getElementById('result')
+
+        document.getElementById('findMe').addEventListener('click', findMe)
+      })
+
+      const findMe = () => {
+        // show a loading message to give immediate feedback that something is actually happening
+        result.textContent = 'Looking for your location...'
+
+        // first way geolocation can fail - it isn't supported by the browser
+        // aka the geolocation object does not exist inside the navigator object
+        if (!('geolocation' in navigator)) {
+          /// if !navigation.geolocation
+          result.textContent =
+            'Sorry your browser does not support geolocation for some reason.'
+          return // stop here, nothing else we can do so exist the function early
+        }
+
+        //if we made it here, geolocation is supported
+        // onSuccess receives a position object
+        // on error receives an error object with 2 keys code and message
+        navigator.geolocation.getCurrentPosition(onSuccess, onError)
+      }
+
+      const onSuccess = (position) => {
+        // console.log(position)
+        let lat = position.coords.latitude
+        let lon = position.coords.longitude
+        let accuracy = position.coords.accuracy
+        let altitude = position.coords.altitude
+        let speed = position.coords.speed
+
+        result.innerHTML = `
+          <table class="details-table">
+            <tr>
+              <th>Latitude</th>
+              <td>${lat}</td>
+            </tr>
+            <tr>
+              <th>Longitude</th>
+              <td>${lon}</td>
+            </tr>
+            <tr>
+              <th>Accuracy</th>
+              <td>${accuracy}</td>
+            </tr>
+            <tr>
+              <th>Altitude</th>
+                <td>${altitude != null ? Math.round(altitude) + ' meters' : 'Not Available'}</td>
+            </tr>
+            <tr>
+              <th>Speed</th>
+              <td>${speed != null ? Math.round(speed) + ' m/s' : 'Not Available'}</td>
+            </tr>
+          </table>
+        `
+        // ternary = shorthand conditional = condition ? what to do if true : what to do if false
+      }
+
+      const onError = (error) => {
+        console.log('Geolocation error', error.code, error.message)
+
+        result.textContent = `Geolocation error, #${error.code}, ${error.message}`
+      }
+    </script>
   </body>
 </html>
