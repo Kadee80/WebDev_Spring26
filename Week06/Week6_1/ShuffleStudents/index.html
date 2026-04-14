@@ -6,28 +6,27 @@
     <title>Student Shuffle</title>
     <script type="text/javascript">
       /*const students = [
-          'Felix',
-          'Junyoung',
-          'Melody',
-          'Shihan',
-          'Jakeline',
-          'Kieran',
-          'Andrew',
-          'Rafid',
-          'Heyin',
-          'Dhiya',
-          'Dona',
-          'Sihyun',
-          'Liz',
-          'Zizi',
-          'Maria',
-          'Ananya',
-          'Tony',
-          'Emily',
-          'David',
-          'Kitrina',
-        ]
-      */
+        'Felix',
+        'Junyoung',
+        'Melody',
+        'Shihan',
+        'Jakeline',
+        'Kieran',
+        'Andrew',
+        'Rafid',
+        'Heyin',
+        'Dhiya',
+        'Dona',
+        'Sihyun',
+        'Liz',
+        'Zizi',
+        'Maria',
+        'Ananya',
+        'Tony',
+        'Emily',
+        'David',
+        'Kitrina',
+      ]*/
 
       const students = [
         'Hriday',
@@ -76,7 +75,7 @@
           const li = document.createElement('LI')
           // grab the student name in our array at slot[i]
           const stu = students[i]
-          const text = document.createTextNode(stu)
+          const text = document.createTextNode(`- ${stu}`)
           // add the text node to the li element
           li.appendChild(text)
           // add the LI to our OL
