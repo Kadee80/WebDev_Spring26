@@ -60,6 +60,68 @@
     <!-- Leaflet JavaScript -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
-    <script></script>
+    <script>
+      let status
+      let map
+      document.addEventListener('DOMContentLoaded', () => {
+        // set global variables for elements on the page
+        status = document.getElementById('status')
+        // map = document.getElementById('map')
+
+        // check for browser support of geolocation
+        if (!('geolocation' in navigator)) {
+          status.textContent = 'Geolocation is not supported in your browser.'
+        } else {
+          navigator.geolocation.getCurrentPosition(showOnMap, handleError)
+        }
+      })
+
+      // SUCCESS
+      const showOnMap = (position) => {
+        const lat = position.coords.latitude
+        const lon = position.coords.longitude
+        const accuracy = position.coords.accuracy
+
+        // const {latitude, longitude, accuracy} = position.coords
+        status.innerHTML = `
+            <strong>Latitude:</strong> ${lat}<br/>
+            <strong>Latitude:</strong> ${lon}<br/>
+            <strong>Accuracy:</strong> ${accuracy}<br/>
+        `
+        // Show on Map
+        // remember map is a global var
+        // create the map centered on user location
+        map = L.map('map').setView([lat, lon], 20)
+
+        //add the openStreetMap title layer so we can see the map
+        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          attribution: '&copy; OpenStreetMap contributors',
+        }).addTo(map)
+
+        // accuracy circle
+        L.circle([lat, lon], {
+          radius: accuracy,
+          color: '#3b82f6',
+          fillColor: '#93c5fd',
+          fillOpacity: 0.2,
+        }).addTo(map)
+
+        // show a marker with a custom popup with the users lat lon
+        L.marker([lat, lon])
+          .addTo(map)
+          .bindPopup(
+            `
+        <strong>You are here!</strong> <br/>
+        Lat: ${lat.toFixed(5)} <br/>
+        Lon: ${lon.toFixed(5)}
+        `
+          )
+          .openPopup()
+      }
+
+      const handleError = (error) => {
+        console.error(error)
+      }
+    </script>
   </body>
 </html>
