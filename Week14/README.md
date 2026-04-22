@@ -1,4 +1,4 @@
-# Final Presentations NEXT THURSDAY, APRIL 30
+# Final Presentations NEXT THURSDAY, MAY 2
 
 In order for your project to be considered complete for grading you will be **required to submit the following by Midnight, MAY 9**
 
