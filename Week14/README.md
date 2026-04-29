@@ -1,4 +1,4 @@
-# Final Presentations NEXT THURSDAY, MAY 2
+# Final Presentations THURSDAY, APRIL 30
 
 In order for your project to be considered complete for grading you will be **required to submit the following by Midnight, MAY 9**
 
@@ -9,7 +9,7 @@ In order for your project to be considered complete for grading you will be **re
 
 ## Presentations
 
-You will be presenting your final website projects MAY 2. Your presentation should cover:
+You will be presenting your final website projects APRIL 30 Your presentation should cover:
 
 ## Documentation
 
@@ -22,7 +22,7 @@ You will be presenting your final website projects MAY 2. Your presentation shou
 
 ## Source Code on Github
 
-Be sure to have a visible folder labeled FINAL in your repository with your source code by THURSDAY MAY 9. Within your final folder, add a README.md file containing a link to the live hosted site if applicable, and a second link to your documentation.
+Be sure to have a visible folder labeled FINAL in your repository with your source code by MIDNIGHT MAY 9. Within your final folder, add a README.md file containing a link to the live hosted site if applicable, and a second link to your documentation.
 
 You can add links with markdown as follows:
 
